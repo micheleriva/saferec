@@ -1,0 +1,15 @@
+{
+  "name": "saferec",
+  "version": "0.0.1",
+  "description": "Easy and lightweight trampoline for your recursive functions.",
+  "main": "./src/index.js",
+  "author": "Michele Riva <ciao@micheleriva.it>",
+  "license": "Unlicense",
+  "private": false,
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "24.8.0"
+  }
+}
